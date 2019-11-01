@@ -10,11 +10,6 @@
 ![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
 ------
-
-# 咖辉个人博客 [https://hui-zz.github.io/blog](https://hui-zz.github.io/blog)
-
-------
-
 # RunAny一劳永逸快速启动软件 [https://hui-zz.github.io/RunAny](https://hui-zz.github.io/RunAny)
 
 ------
